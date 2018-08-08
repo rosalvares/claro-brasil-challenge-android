@@ -1,0 +1,8 @@
+<resources>
+    <!--AppName-->
+    <string name="app_name">Movies</string>
+
+    <!--Labels Home-->
+    <string name="all_movies">All Movies</string>
+    <string name="favorites">Favorites</string>
+</resources>
